@@ -1,0 +1,29 @@
+# Build
+dist/
+*.apk
+*.apk.idsig
+*.ap_
+/tmp/
+
+# Android local
+android/debug.keystore
+android/local.properties
+.gradle/
+build/
+*.iml
+.idea/
+
+# Node
+node_modules/
+server/node_modules/
+
+# OS / editor
+.DS_Store
+*.swp
+.vscode/
+.cursor/
+
+# Logs
+*.log
+dashboard.log
+screenshot.png
