@@ -4,6 +4,12 @@ AI companion for smart glasses — live awareness, proactive nudges, on-demand g
 
 Phone camera is the live view today. Bluetooth earbuds (or speaker) for voice. Meta / Google / Frame / other glasses pair as Bluetooth audio until partner camera APIs exist. AuraGuide is **its own model**; it does not socket into Meta’s onboard assistant.
 
+## Download the beta (phone)
+
+**[Download AuraGuide-beta.apk](https://github.com/xavierscudd-agentchaos/auraguide/releases/download/v0.7.0-beta/AuraGuide-beta.apk)** — or open the [Releases](https://github.com/xavierscudd-agentchaos/auraguide/releases/tag/v0.7.0-beta) page and tap the `.apk` under **Assets**.
+
+On GitHub: repo page → right side **Releases** → **AuraGuide 0.7.0-beta** → **Assets** → `AuraGuide-beta.apk`.
+
 ## What’s in this repo
 
 ```
